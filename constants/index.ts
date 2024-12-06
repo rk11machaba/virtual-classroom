@@ -21,7 +21,7 @@ export const sidebarLinks = [
     },
     {
         label: 'My Meetings',
-        route: '/presonal',
+        route: '/personal-room',
         imgUrl: '/icons/add-personal.svg',
     },
 ]
